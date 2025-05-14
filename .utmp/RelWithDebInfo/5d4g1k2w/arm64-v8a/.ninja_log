@@ -1,0 +1,11 @@
+# ninja log v5
+44	262	7689302837270762	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	69e0343eee9c4407
+265	727	7689302840630817	F:/Workspace/UnityProjects/PlaneFight/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5d4g1k2w/obj/arm64-v8a/libswappywrapper.so	152de6d03320bfcf
+3	1371	7689302848105892	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	59782b6e6751b6d
+17	1375	7689302848423012	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	2bcac9e90b76b0f3
+22	1376	7689302848067183	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	7f3e5564d13ac581
+36	1546	7689302849393270	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	569f63ba15a3a3d2
+8	1547	7689302849973152	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	b7d1fdf7db8e31b7
+29	1671	7689302851454192	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	9d1d5c5ab826cdd7
+12	1739	7689302852120339	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	636104746dfc9bd8
+1739	1975	7689302853904970	F:/Workspace/UnityProjects/PlaneFight/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5d4g1k2w/obj/arm64-v8a/libgame.so	a1c0e18a5025df3

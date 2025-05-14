@@ -1,0 +1,8 @@
+F:/Workspace/UnityProjects/PlaneFight/.utmp/RelWithDebInfo/5d4g1k2w/arm64-v8a/CMakeFiles/edit_cache.dir
+F:/Workspace/UnityProjects/PlaneFight/.utmp/RelWithDebInfo/5d4g1k2w/arm64-v8a/CMakeFiles/rebuild_cache.dir
+F:/Workspace/UnityProjects/PlaneFight/.utmp/RelWithDebInfo/5d4g1k2w/arm64-v8a/GameActivity/CMakeFiles/game.dir
+F:/Workspace/UnityProjects/PlaneFight/.utmp/RelWithDebInfo/5d4g1k2w/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+F:/Workspace/UnityProjects/PlaneFight/.utmp/RelWithDebInfo/5d4g1k2w/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+F:/Workspace/UnityProjects/PlaneFight/.utmp/RelWithDebInfo/5d4g1k2w/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+F:/Workspace/UnityProjects/PlaneFight/.utmp/RelWithDebInfo/5d4g1k2w/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+F:/Workspace/UnityProjects/PlaneFight/.utmp/RelWithDebInfo/5d4g1k2w/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
